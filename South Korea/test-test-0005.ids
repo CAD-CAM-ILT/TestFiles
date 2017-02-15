@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IDS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IDSVersion="1234567890" IDSGUID="3b499193-f76b-4aaf-bf58-087251059ac3" xmlns="http://www.iso.org/2014/IDS/18618">
+  <IDSSource HostName="DESKTOP-DEDRELS" IPAddress="192.168.100.75" MACAddress="D017C2971B24" NetworkDomain="" ApplicationName="colLab Link" SystemName="colLab Link" />
+  <Submission GUID="b04110fd-cada-49fe-8dec-b8d3cc478c6a">
+    <Originator GUID="d414d850-e1ee-4235-9b41-f99fb9b6e415" Name="test" BusinessType="LAB">
+      <Address Street1="23 Inchon-ro 22-gil, Seongbuk-gu" City="Seoul" PostalCode="02285" Country="KOR" />
+      <BillingAddress Street1="23 Inchon-ro 22-gil, Seongbuk-gu" City="Seoul" PostalCode="02285" Country="KOR" />
+      <Contact Name="SeungCheol Kim" Phone="+82-70-4892-2040" Fax="+82-2-6280-9601" MobilePhone="+82-10-4756-4042" Email="seungcheol.kim@medit.com" />
+      <Localization Language="KOKR" DecimalSymbol="." DigitGrouping="," CurrencyCode="KRW" CurrencySymbol="\" />
+    </Originator>
+    <Broker GUID="9b038c3d-0072-482d-ab2d-05b2089c30cc" BrokerIDOriginator="d414d850-e1ee-4235-9b41-f99fb9b6e415" Name="test" BusinessType="LAB">
+      <Address Street1="23 Inchon-ro 22-gil, Seongbuk-gu" City="Seoul" PostalCode="02285" Country="KOR" />
+      <Contact Name="SeungCheol Kim" Phone="+82-70-4892-2040" Fax="+82-2-6280-9601" MobilePhone="+82-10-4756-4042" Email="seungcheol.kim@medit.com" />
+      <Localization Language="KOKR" DecimalSymbol="." DigitGrouping="," CurrencyCode="KRW" CurrencySymbol="\" />
+    </Broker>
+    <Providers>
+      <Provider GUID="5a46b681-03f9-431b-beac-c6693397757c" Name="medit2">
+        <Address Street1="23 Inchon-ro 22-gil, Seongbuk-gu" City="Seoul" PostalCode="02285" Country="KOR" />
+        <Contact Name="SeungCheol Kim" Phone="+82-70-4892-2040" Fax="+82-2-6280-9601" MobilePhone="+82-10-4756-4042" Email="seungcheol.kim@medit.com" />
+        <Localization Language="KOKR" DecimalSymbol="." DigitGrouping="," CurrencyCode="KRW" CurrencySymbol="\" />
+      </Provider>
+    </Providers>
+    <Products>
+      <Product ProductIdOriginator="5a46b681-03f9-431b-beac-c6693397757c" ProductType="FULLCROWN">
+        <ProductDescription />
+      </Product>
+      <Product ProductIdOriginator="5a46b681-03f9-431b-beac-c6693397757c" ProductType="FULLCROWN">
+        <ProductDescription />
+      </Product>
+    </Products>
+  </Submission>
+  <Catalogs>
+    <FileCatalog>
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-13.implantPosition" FileType=".implantPosition" FileSize="936" GUID="83af6b0a-350c-4713-8aec-5f2be003d69c" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-14.implantPosition" FileType=".implantPosition" FileSize="941" GUID="7ec99394-e0e5-43c7-9e86-f90c7fc46904" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-16.implantPosition" FileType=".implantPosition" FileSize="941" GUID="ace4b438-ab21-46f0-9526-3b20e229f797" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-23.implantPosition" FileType=".implantPosition" FileSize="935" GUID="f4d81ea9-9a26-433a-94d2-306bd7a3ef84" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-24.implantPosition" FileType=".implantPosition" FileSize="935" GUID="9f9edbf6-8712-4d9d-baf8-0c14f8c8ecb4" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-26.implantPosition" FileType=".implantPosition" FileSize="936" GUID="077ffc0f-c3b3-439f-a46b-3cb09638bcc5" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-gingiva.stl" FileType=".stl" FileSize="2153084" GUID="117fb600-8f59-4885-bfb1-cb21730e8e9e" />
+      <IdsFile Name="C:\Users\Medit\Documents\Medit\colLabLink\colLabProjectData\2017-01-19\test-test-0005\MeditClinic-Patient-0001-009-upperjaw.stl" FileType=".stl" FileSize="6851734" GUID="8dcb648a-6ab8-4e50-bdc9-7e08c8cb6791" />
+    </FileCatalog>
+    <CADDataCatalog>
+      <Scans>
+        <Scan GUID="56b68138-0648-4582-89ad-48a854ef9b35">
+          <ScanFiles>
+            <ScanFile ReferenceID="83af6b0a-350c-4713-8aec-5f2be003d69c" />
+            <ScanFile ReferenceID="7ec99394-e0e5-43c7-9e86-f90c7fc46904" />
+            <ScanFile ReferenceID="ace4b438-ab21-46f0-9526-3b20e229f797" />
+            <ScanFile ReferenceID="f4d81ea9-9a26-433a-94d2-306bd7a3ef84" />
+            <ScanFile ReferenceID="9f9edbf6-8712-4d9d-baf8-0c14f8c8ecb4" />
+            <ScanFile ReferenceID="077ffc0f-c3b3-439f-a46b-3cb09638bcc5" />
+            <ScanFile ReferenceID="117fb600-8f59-4885-bfb1-cb21730e8e9e" />
+            <ScanFile ReferenceID="8dcb648a-6ab8-4e50-bdc9-7e08c8cb6791" />
+          </ScanFiles>
+        </Scan>
+      </Scans>
+    </CADDataCatalog>
+    <DentistCatalog>
+      <Dentist GUID="6bc6509c-cbd9-4073-bbc8-d5f58abe50c8" Title="test">
+        <Contact Name="SeungCheol Kim" Phone="+82-70-4892-2040" Fax="+82-2-6280-9601" MobilePhone="+82-10-4756-4042" Email="seungcheol.kim@medit.com" />
+      </Dentist>
+    </DentistCatalog>
+    <PatientCatalog>
+      <Patient GUID="dbfab010-fe93-422a-a27e-3c6921985e7e" LastName="test" />
+    </PatientCatalog>
+    <OrderCatalog>
+      <Order GUID="f544292e-8ce1-4fc4-8ae1-29669d1f456b" OrderType="OTHER">
+        <Dentist ReferenceID="6bc6509c-cbd9-4073-bbc8-d5f58abe50c8" />
+        <OriginalPrescription GUID="84a312fd-0509-424f-9ff6-fc84d67c9e14" PrescriptionDateUTCOriginated="2017-01-19T06:31:34.7288788Z" />
+        <Provider ReferenceID="5a46b681-03f9-431b-beac-c6693397757c" />
+        <Products>
+          <Product>
+            <Material GUID="93e05954-87f7-4d6f-b579-f9774c222b10" Class="COMP" />
+            <Restorations>
+              <Restoration Index="18" Quantity="1">
+                <Teeth>
+                  <Tooth Number="18">
+                    <Components>
+                      <Component GUID="1ff20f35-05a1-45d6-ac95-619241ba4fde" Quantity="1" />
+                    </Components>
+                    <Shading Hue="A" />
+                    <AdjacentTeethNodes Value="17" />
+                    <OpposingDentition Value="48" />
+                  </Tooth>
+                </Teeth>
+              </Restoration>
+            </Restorations>
+          </Product>
+          <Product>
+            <Material GUID="aef75f9e-7bc2-4354-b2cb-b63ca341891f" Class="COMP" />
+            <Restorations>
+              <Restoration Index="17" Quantity="1">
+                <Teeth>
+                  <Tooth Number="17">
+                    <Components>
+                      <Component GUID="395238c2-c838-46ce-b805-e47c6e3081bb" Quantity="1" />
+                    </Components>
+                    <Shading Hue="A" />
+                    <AdjacentTeethNodes Value="16, 18" />
+                    <OpposingDentition Value="47" />
+                  </Tooth>
+                </Teeth>
+              </Restoration>
+            </Restorations>
+          </Product>
+        </Products>
+        <OrderComments>
+          <OrderComment DateUTCAdded="2017-01-19T06:31:34.7288788Z" Comment="" />
+        </OrderComments>
+        <Status StatusCode="in-process" />
+      </Order>
+    </OrderCatalog>
+  </Catalogs>
+</IDS>

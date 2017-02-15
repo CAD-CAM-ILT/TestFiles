@@ -1,0 +1,15 @@
+<MeditProject>
+  <MeditChart Version="">
+    <Project DateTime="2017-01-19 15:31:34" ID="0001" />
+    <DentalClinic Clinic="test" Patient="test" />
+    <DentalLab Lab="medit2" Technician="medit2" />
+    <Memo Description="" />
+    <ProjectType Type="Prosthodontics">
+      <Tooth ToothIndex="1001" FDI="18" US="1" ToothType="AnatomicCrown" ImplantType="None" GingivaScan="False" SituScan="False" Connect="False" />
+      <Tooth ToothIndex="1002" FDI="17" US="2" ToothType="AnatomicCrown" ImplantType="None" GingivaScan="False" SituScan="False" Connect="False" />
+    </ProjectType>
+    <AntagonistType Type="None" />
+    <MovementMarkerScan value="False" />
+    <UniqueID value="8ab488b5e46e9a3d872041347eb930c4" />
+  </MeditChart>
+</MeditProject>

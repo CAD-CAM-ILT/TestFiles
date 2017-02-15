@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImplantPosition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CoordinateSystem>OpticalModelScan</CoordinateSystem>
+<Library>Target3D_T-2100</Library>
+<Type>T2102Rp</Type>
+<Subtype>NONEZRTYPEB</Subtype>
+      <MatrixImplantGeometry>
+        <_00>0.99880999326705933</_00>
+        <_01>0.015784900635480881</_01>
+        <_02>0.046142198145389557</_02>
+        <_03>0</_03>
+        <_10>-0.015158399939537048</_10>
+        <_11>0.99978899955749512</_11>
+        <_12>-0.013896400108933449</_12>
+        <_13>0</_13>
+        <_20>-0.046351801604032516</_20>
+        <_21>0.013180400244891644</_21>
+        <_22>0.99883800745010376</_22>
+        <_23>0</_23>
+        <_30>-12.535300254821777</_30>
+        <_31>17.651399612426758</_31>
+        <_32>18.611799240112305</_32>
+        <_33>1</_33>
+      </MatrixImplantGeometry>
+</ImplantPosition>
